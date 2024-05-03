@@ -1,11 +1,11 @@
 {
   "ownerNumber": [
-  "5219996125657"
+  "5491144775561"
   ],
   "MAX_TOKEN": 4097,
-  "OPENAI_KEY": "TU_APIKEY", 
+  "OPENAI_KEY": "sk-proj-9VRCCG039BmJxvFHIHj5T3BlbkFJP0oCFikHrmRZBhqr0t1u", 
   "NOTA_1": "Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys",
-  "ORG_ID": "TU_ID_DE_ORG",
+  "ORG_ID": "org-HbxoVi9LvrKuaWI3kcGxZ9en",
   "NOTA_2": "Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings",
-  "LOLHUMAN_KEY": "BrunoSobrino"
+  "LOLHUMAN_KEY": "TryzerSnipe"
 }
